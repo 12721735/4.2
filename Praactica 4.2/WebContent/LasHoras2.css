@@ -6,3 +6,22 @@ h1{
 body{
 	background-color: orange;
 }
+p.centrado{
+	text-align: center;
+	margin-left: 600px;
+}
+p.derecha{
+	text-align: right;
+	margin-top:200px;
+}
+img.der{
+	float: left;
+	
+}
+img.der2{
+	float: right;
+	margin-right: 600px;
+}
+img.der3{
+	float: right;
+}
